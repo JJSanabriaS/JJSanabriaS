@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data Science and Artificial Intelligence leader with more than 15 years of experience designing, developing, and deploying high-impact AI solutions across healthcare, finance, cybersecurity, engineering, and industrial sectors.
+I am a Data Science and Artificial Intelligence leader with more than 15 years of experience designing, developing, and deploying high-impact AI solutions across healthcare, finance, cybersecurity, engineering, academic research and industrial sectors.
 
 As Founder, CEO, and CTO of Sinergia Vital SAS, I specialize in transforming complex challenges into scalable AI-driven products by combining:
 
@@ -37,6 +37,9 @@ My approach integrates technical excellence with strategic business vision, enab
          ✔ AI-based fraud detection systems using computer vision & generative AI
          ✔ Investment recommendation engines using NLP & deep learning
          ✔ Federated learning systems for cybersecurity threat prediction
+         v Electrical market prediction based on AI
+         v desing and construction of research equipment for metalic behaviour analysis (UFRJ metallurgy lab and naval lab)
+         v Geological soil analysis systems (UFRGS)
 
 *************************************************************************************************************
 # Academic & Research Background
