@@ -37,8 +37,9 @@ My approach integrates technical excellence with strategic business vision, enab
          ✔ AI-based fraud detection systems using computer vision & generative AI
          ✔ Investment recommendation engines using NLP & deep learning
          ✔ Federated learning systems for cybersecurity threat prediction
-         v Electrical market prediction based on AI
-         v desing and construction of research equipment for metalic behaviour analysis (UFRJ metallurgy lab and naval lab)
+         ✔ Electrical market prediction based on AI
+         ✔ Desing and construction of research equipment for metalic behaviour analysis (UFRJ metallurgy lab)
+         ✔ Desing and construction of research equipment for metalic behaviour analysis (UFRJ naval lab)
          v Geological soil analysis systems (UFRGS)
 
 *************************************************************************************************************
