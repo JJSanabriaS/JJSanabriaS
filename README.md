@@ -16,12 +16,12 @@ My approach integrates technical excellence with strategic business vision, enab
 *************************************************************************************************************
 # Executive Value Proposition
 
-   ✔ AI Strategy Design aligned with business objectives
-   ✔ End-to-end ML lifecycle management (data → model → deployment → monitoring)
-   ✔ Development of AI-powered products and platforms
-   ✔ Multidisciplinary team leadership
-   ✔ Fundraising, IP strategy & innovation management
-   ✔ Data-driven decision-making frameworks
+   ✔ AI Strategy Design aligned with business objectives\
+   ✔ End-to-end ML lifecycle management (data → model → deployment → monitoring)\
+   ✔ Development of AI-powered products and platforms\
+   ✔ Multidisciplinary team leadership\
+   ✔ Fundraising, IP strategy & innovation management\
+   ✔ Data-driven decision-making frameworks\
 
 *************************************************************************************************************
 # Selected Impact Projects
