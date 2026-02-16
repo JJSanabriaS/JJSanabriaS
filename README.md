@@ -4,12 +4,12 @@ I am a Data Science and Artificial Intelligence leader with more than 15 years o
 
 As Founder, CEO, and CTO of Sinergia Vital SAS, I specialize in transforming complex challenges into scalable AI-driven products by combining:
 
-   ✔ Artificial Intelligence & Machine Learning
-   ✔ Computer Vision & Deep Learning
-   ✔ Generative AI & LLMs
-   ✔ MLOps & Cloud Architectures (AWS, Azure)
-   ✔ Hardware-Software Integration
-   ✔ Product Strategy & Innovation Management
+   ✔ Artificial Intelligence & Machine Learning\
+   ✔ Computer Vision & Deep Learning\
+   ✔ Generative AI & LLMs\
+   ✔ MLOps & Cloud Architectures (AWS, Azure)\
+   ✔ Hardware-Software Integration\
+   ✔ Product Strategy & Innovation Management\
 
 My approach integrates technical excellence with strategic business vision, enabling organizations to move from prototype to production efficiently and sustainably.
 
