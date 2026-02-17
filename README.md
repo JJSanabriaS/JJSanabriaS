@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I am a Data Science and Artificial Intelligence leader with more than 15 years of experience designing, developing, and deploying high-impact AI solutions across healthcare, finance, cybersecurity, engineering, academic research and industrial sectors.
-
+I am a Software Developer and AI/IT Consultant with over 15 years of professional experience in the technology industry. Since 1996, I have been helping companies design, develop, and maintain reliable, scalable, and efficient software solutions across various sectors suxh as healthcare, finance, cybersecurity, engineering, academic research and industrial.
+ 
+ Throughout my career, I have worked on full software development lifecycles — from requirements analysis and system architecture to development, deployment, and long-term support. As a consultant, I have collaborated closely with business stakeholders to translate complex business needs into practical and high-performing technical solutions.
+ 
 As Founder, CEO, and CTO of Sinergia Vital SAS, I specialize in transforming complex challenges into scalable AI-driven products by combining:
 
    ✔ Artificial Intelligence & Machine Learning\
@@ -89,4 +91,9 @@ My approach integrates technical excellence with strategic business vision, enab
 
 To build intelligent, scalable, and ethical AI systems that generate measurable business value while contributing to technological sovereignty and sustainable development.
 
+I have worked both independently and as part of cross-functional teams, adapting quickly to new technologies and evolving business environments. My long-term experience allows me to combine technical depth with strategic thinking, ensuring that solutions are not only functional but sustainable and aligned with business goals.
+
+I am passionate about clean code, continuous improvement, and delivering measurable value through technology.
+
+*************************************************************************************************************
 - 🔭 I’m currently working on self proyects and checking new technologies 
