@@ -69,7 +69,8 @@ My approach integrates technical excellence with strategic business vision, enab
         ✔ CI/CD for ML systems
         ✔ Terraform, Docker
         ✔ Microservices 
-        ✔ Message broker 
+        ✔ Message brokers 
+        ✔ Databricks
 
     ## Programming
         Python | C++ | Golang | React | Flutter | R | Javascript | Matlab Pascal SQL/NoSQL
