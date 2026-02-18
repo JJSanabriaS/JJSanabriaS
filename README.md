@@ -26,7 +26,7 @@ My approach integrates technical excellence with strategic business vision, enab
    ✔ Data-driven decision-making frameworks\
 
 *************************************************************************************************************
-# Selected Impact Projects
+# Projects Selected by Impact 
 
    ## At Sinergia Vital SAS (Entrepreneurship):
 
