@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Developer and AI/IT Consultant with over 15 years of professional experience in the technology industry. Since 1996, I have been helping companies design, develop, and maintain reliable, scalable, and efficient software solutions across various sectors such as healthcare, finance, cybersecurity, engineering, academic research and industrial.
+I am a Software Developer and AI/IT Consultant with over 15 years of professional experience in the technology industry. However since 1996, I have been helping companies design, develop, and maintain reliable, scalable, and efficient software solutions across various sectors such as healthcare, finance, cybersecurity, engineering, academic research and industrial.
  
  Throughout my career, I have worked on full software development lifecycles — from requirements analysis and system architecture to development, deployment, and long-term support. As a consultant, I have collaborated closely with business stakeholders to translate complex business needs into practical and high-performing technical solutions.
  
