@@ -97,3 +97,5 @@ I am passionate about clean code, continuous improvement, and delivering measura
 
 *************************************************************************************************************
 - 🔭 I’m currently working on self proyects and checking new technologies 
+
+# Most of repositories had some level of NDA (even if it is unspoken), so the real tecnichal work done is not presented, just a general idea
